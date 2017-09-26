@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="businesscard.css"?>
+
+<BusinessCards>
+    <BusinessCard>
+    <Name>Eana Kim</Name>
+    <phone type="mobile">(929) 215-0210</phone>
+    <phone type="home">(646) 864-2861</phone>
+    <email>ek2725@nyu.edu</email>
+    </BusinessCard>
+    
+        <BusinessCard>
+            <Name>Eunsook Kang</Name>
+            <phone type="mobile"> (010) 7299-0635</phone>
+            <phone type="home">(031) 706-0635</phone>
+            <email>uauaa@naver.com</email>
+        </BusinessCard>
+</BusinessCards>
+

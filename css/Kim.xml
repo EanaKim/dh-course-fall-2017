@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="kim.css"?>
+
+<FirstTag>
+    This is our first XML file
+    <!-- This is a comment in the file -->
+</FirstTag>
