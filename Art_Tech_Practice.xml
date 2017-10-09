@@ -3,11 +3,16 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
-            <titleStmt>
-                <title></title>
+           <titleStmt>
+                <title>Art in the Information Age</title>
             </titleStmt>
-           <!-- <publicationStmt></publicationStmt> -->
-            <!--<sourceDesc></sourceDesc>-->
+            <publicationStmt>
+                <publisher>Edward A. Shanken</publisher>
+                <date when ="2002">2002</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Technology and Conceptual Art</p>
+            </sourceDesc>
         </fileDesc>
     </teiHeader>
     <text>
@@ -60,8 +65,8 @@
             as functioning like information
             processing systems. Software
             included works by conceptual artists
-            such as <listName>Les Levine, Hans Haacke
-                and Joseph Kosuth</listName>, whose art was
+            such as <persName>Les Levine</persName>, <persName>Hans Haacke</persName>
+                and <persName>Joseph Kosuth</persName>, whose art was
             presented beside displays of technology
             including the first public exhibition
             of hypertext (Labyrinth, an
@@ -70,8 +75,8 @@
                 Nelson)</persName> and a model of intelligent
             architecture (SEEK, a recon gurable
             environment for gerbils designed by <persName>Nicholas Negroponte</persName>
-                and <group>the Architecture Machine Group</group> at <orgName>the Massachusetts
+                and <name type="group">the Architecture Machine Group</name> at <orgName>the Massachusetts
                     Institute of Technology)</orgName>
-        </body>
+            </ab></body>
     </text>
 </TEI>
